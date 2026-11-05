@@ -1,6 +1,6 @@
-AI-Powered Data Analysis Report: Digital Education in Rural India
+**AI-Powered Data Analysis Report: Digital Education in Rural India**
 
-Project Overview
+# Project Overview #
 
 This project was completed as part of my Data Analytics Internship at
 InAmigos Foundation.
