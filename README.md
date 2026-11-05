@@ -14,12 +14,12 @@ The purpose of this project is to understand how AI tools can support
 research, organise information, summarise findings, and help turn data
 into practical recommendations.
 
-Research Topic
+**Research Topic**
 
 Digital Education in Rural India: Understanding the Digital Gap and
 How NGOs Can Help
 
-Key Findings
+**Key Findings**
 
 The report uses findings from the ASER 2024 survey of rural children
 aged 14--16.
@@ -45,7 +45,7 @@ necessarily mean every student has personal or independent access to it.
 The difference in reported ownership between boys and girls also
 highlights the importance of inclusive digital learning opportunities.
 
-Main Challenges Identified
+**Main Challenges Identified**
 
 Limited personal access to smartphones and computers.
 
@@ -57,7 +57,7 @@ Online safety and digital awareness.
 
 Connectivity, language, and access barriers in some communities.
 
-Suggested Solutions for NGOs
+**Suggested Solutions for NGOs**
 
 Set up community digital-learning spaces with shared computers or
 tablets.
@@ -77,7 +77,7 @@ resources.
 Track programme participation and students' digital skills to
 measure progress.
 
-How AI Was Used
+**How AI Was Used**
 
 ChatGPT was used as a support tool to:
 
@@ -95,7 +95,7 @@ AI-generated content was not treated as a primary source. The statistics
 are attributed to the publications listed below, and recommendations are
 presented as proposed actions rather than survey results.
 
-Tools and Resources
+**Tools and Resources**
 
 ChatGPT -- research assistance, summarisation, and report
 organisation.
@@ -107,7 +107,7 @@ publication.
 
 NITI Aayog -- supporting discussion of digital access.
 
-References
+**References**
 
 ASER Centre, Annual Status of Education Report (Rural) 2024:
 https://asercentre.org/aser-2024/
@@ -119,15 +119,14 @@ NITI Aayog, discussion of ASER 2024 smartphone access and gender
 differences:
 https://www.niti.gov.in/node/2288
 
-Project File
+**Project File**
 
 The main deliverable for this task is the two-page PDF report:
+Digital Education Gap in Rural India.pdf
 
-AI_Data_Analysis_Report_Original_Student_Style.pdf
 
-Upload the PDF into this repository alongside this README file.
 
-Learning Outcome
+**Learning Outcome**
 
 Through this task, I learned how AI can assist with social-impact
 research and how published statistics can be used to identify gaps and
@@ -135,7 +134,7 @@ suggest practical solutions. I also learned the importance of checking
 AI-assisted summaries against original sources and clearly acknowledging
 the use of AI.
 
-Originality and Disclosure
+**Originality and Disclosure**
 
 This report is written in original wording based on the cited sources.
 External statistics and research findings are credited to their original
@@ -143,6 +142,6 @@ publishers. AI assistance is disclosed above. This statement is not a
 certified plagiarism-check result, and no specific similarity score is
 claimed.
 
-Prepared by: Muhammed Bilal N
-Internship: Data Analytics Intern -- InAmigos Foundation
-Task: Task 2 -- AI-Powered Data Analysis Report
+**Prepared by: Muhammed Bilal N**
+**Internship: Data Analytics Intern -- InAmigos Foundation**
+**Task: Task 2 -- AI-Powered Data Analysis Report**
